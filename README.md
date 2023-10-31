@@ -3,6 +3,9 @@
 
 Welcome aboard the Car Showcase App project! Crafted with the robust Next.js 13---a React framework that's become a cornerstone in modern web development, this application aims to manifest the modern blueprint of constructing a state-of-the-art Next.js application, adorned with the latest features and best practices.
 
+![rental-car fullapp](https://github.com/0xMrik/Rental_Car_App/assets/114156582/016d8027-a492-4042-9f53-cd9361026ea6)
+
+
 ✨ Features
 ----------
 
@@ -25,6 +28,12 @@ Welcome aboard the Car Showcase App project! Crafted with the robust Next.js 13-
 - 📌 **Headless UI**: A collection of unstyled, fully accessible UI components.
 - 📌 **TypeScript**: A JavaScript superset injecting static types into the code.
 - 📌 **API Management**: Employing RapidAPI for seamless external API interactions.
+
+👀 Demo
+----------
+
+![ezgif com-optimize](https://github.com/0xMrik/Rental_Car_App/assets/114156582/9c23a083-0a0a-46a7-8a90-f73c6cfa5a7c)
+
 
 🚀 Deployment on Vercel
 -----------------------
